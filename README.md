@@ -9,7 +9,7 @@ React + TypeScript ile hazırlanmış modern film arama ve favori yönetim siste
 - Favori filmleri kaydetme
 - Tema değişimi (light/dark)
 - Responsive tasarım
-- Tema ve favori filmler için yerel depolama kullanma
+- Tema ve favori filmler için yerel depolama
 
 ## Sayfalar
 
