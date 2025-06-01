@@ -1,6 +1,6 @@
-# 🎬 Film Rehberi Uygulaması
+# 🎬 Kişisel Film Yönetim Uygulaması
 
-React + TypeScript ile hazırlanmış modern film arama ve favori yönetim sistemi.
+React + TypeScript ile hazırlanmış modern film arama ve favori yönetim uygulaması.
 
 ## Özellikler
 
